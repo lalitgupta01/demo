@@ -1,3 +1,2 @@
-console.log("hiii");
-comsole.log("edit");
-
+console.log("hiii")
+console.log()
